@@ -1,6 +1,6 @@
 ## You see live Website:
 
-Open [spenza-frontend-assignment.vercel.app]
+Open [spenza-frontend-assignment.vercel.app](spenza-frontend-assignment.vercel.app)
 
 ## JSON Data Created with Python
 
